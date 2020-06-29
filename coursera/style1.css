@@ -13,6 +13,9 @@ margin-left: auto;
 margin-right: auto;
 padding:10px;	
 }
+ .row{
+	 width:100%;
+}
 
 
 
@@ -44,8 +47,8 @@ section {
 
 #p1,#p2,#p3{
 overflow:auto;
-width:auto;
-height:auto;
+width:400px;
+height:300px;
 background-color:#92f7f7;
 padding:10px;
 font-weight:bold;

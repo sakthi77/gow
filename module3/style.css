@@ -63,6 +63,7 @@ background-color:white;
 .navbar-brand h1{
 font-weight:bold;
 color:white;
+ text-decoration:none;   
 }
 
 .navbar-brand{

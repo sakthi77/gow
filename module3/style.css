@@ -1,0 +1,84 @@
+body{
+background:url('https://thetravelerschant.files.wordpress.com/2013/09/rest_1822669b.jpg') no-repeat;
+color:white;
+background-size:cover;
+}
+
+*{
+font-family:mv boli;
+}
+#header-nav{
+background-color:maroon;
+border-radius:0;
+border:0;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: white;
+}
+
+p{
+font-weight:bold;
+}
+
+
+#biriyani,#noodles{
+padding-bottom:20px;
+}
+
+#tot{
+background-color:maroon;
+border: 2px solid white;
+padding:10px;
+letter-spacing:2px;
+word-spacing:2px;
+}
+
+
+#logo-img{
+background:url('https://iconizer.net/files/simple_social_bookmarking/thumb/128/wordpress.png') no-repeat; 
+width:150px;
+height:150px;
+margin:10px 0px 10px 0px;
+}
+
+
+#nav-list {
+ background-color:rgb(40,40,40);
+ margin-top:5px;}
+
+
+#nav-list a{
+ color:white;
+ font-weight:bold;
+}
+
+
+#nav-list a:hover{
+font-weight:bold;
+color:black;
+background-color:white;
+}
+
+.navbar-brand h1{
+font-weight:bold;
+color:white;
+text-decoration:none;
+}
+
+.navbar-brand{
+padding-top:25px;
+}
+
+.navbar-brand a:hover,.navbar-brand a:focus{
+text-decoration:none;
+}
+
+.navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+
+

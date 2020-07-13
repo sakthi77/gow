@@ -13,8 +13,8 @@ var speakWord = "Hello";
 // STEP 4: Rewrite the 'speak' function such that it is attached to the
 // helloSpeaker object instead of being a standalone function.
 // See Lecture 52, part 2
-hellospeaker.speak=function(name) {
-  hellospeaker.name=name;
+helloSpeaker.speak=function(name) {
+  helloSpeaker.name=name;
   console.log(speakWord + " " + helloSpeaker.name);
 }
 
